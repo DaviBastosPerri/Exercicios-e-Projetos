@@ -1,0 +1,17 @@
+frase = 'curso em video python
+
+print(frase)
+print(frase[6])
+print(frase[9:21:2])
+print(frase[:5])
+print(frase[9::3])
+print(len(frase))
+print(frase.count('o'))
+print(frase.count('o', 0, 13))
+print(frase.find('deo'))
+print(frase.find('android'))
+print('curso'in frase)
+print(frase.replace('python', 'android'))
+print(frase.upper())
+print(frase.split())
+print('-'.join(frase))

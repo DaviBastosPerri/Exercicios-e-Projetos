@@ -1,0 +1,6 @@
+nome = str(input('Digite seu nome completo '))
+print(nome.upper())
+print(nome.lower())
+nsespaço = nome.replace(' ', '')
+print(len(nsespaço))
+print(nome.find(' '))
