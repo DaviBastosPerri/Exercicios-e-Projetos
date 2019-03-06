@@ -44,8 +44,8 @@ while(qedp > contador)
 {
 printf("digite a nota do edp:\n");
 scanf("%f",&edp);
-acumulador= acumulador+edp;
-contador=contador+1;
+acumulador = acumulador+edp;
+contador = contador + 1;
 }
 
 medp=acumulador/qedp;

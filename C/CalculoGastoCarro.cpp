@@ -4,8 +4,7 @@
 
 int main ()
 {
-float ndv, pc, lg
-, g;
+float ndv, pc, lg, g;
 
 while(ndv > 0)
 {
